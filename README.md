@@ -45,5 +45,3 @@ Cafe Bliss is a modern, responsive website that provides information about the c
 - CSS3: Styling language used for layout, animations, and responsiveness.
 - JavaScript (optional for future enhancements): Used for interactive features like buttons, forms, etc.
 
----
-
